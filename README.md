@@ -7,4 +7,4 @@
 
 
 <p align="center">
-<a href="http://wa.me/593992402778" target="blank"><img src="https://img.shields.io/badge/SebasOficial🔰-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/593992402778" target="blank"><img src="https://img.shields.io/badge/Sebas Oficial🔰-25D366?style=for-the-badge&logo=whatsapp&logoColor=#c74740" />
